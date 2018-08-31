@@ -1,4 +1,6 @@
 # demo_git
 une demo de git
 
-hello it's a test git hub jessica PM 
+hello it's a test github jessica PM 
+
+2. on modifie depues github 
